@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+    name: gjuly23image1
+spec:
+    type: LoadBalancer
+    ports:
+    - port: 80 
+    selector:
+        app: gjuly23image1
