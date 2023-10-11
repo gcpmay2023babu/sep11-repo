@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: gjuly23image1 
-          image: newssep06.azurecr.io/goct11image
+          image: newssep06.azurecr.io/imageoct11new
           ports:
           - containerPort: 80
 ---
