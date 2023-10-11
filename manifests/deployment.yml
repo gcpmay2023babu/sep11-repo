@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: gjuly23image1 
-          image: azurecontregjuly21.azurecr.io/custom2nginxapp1july23
+          image: newssep06.azurecr.io/goct11image
           ports:
           - containerPort: 80
 ---
